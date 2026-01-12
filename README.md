@@ -35,13 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
