@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
