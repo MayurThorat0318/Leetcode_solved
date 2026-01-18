@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
