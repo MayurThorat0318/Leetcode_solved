@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
