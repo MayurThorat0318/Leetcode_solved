@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
