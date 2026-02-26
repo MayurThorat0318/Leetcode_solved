@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1068-product-sales-analysis-i) |
