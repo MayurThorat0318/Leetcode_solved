@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0595-big-countries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1068-product-sales-analysis-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1141-user-activity-for-the-past-30-days-i) |
