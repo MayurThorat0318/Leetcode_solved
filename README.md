@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
