@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [2278-percentage-of-letter-in-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
