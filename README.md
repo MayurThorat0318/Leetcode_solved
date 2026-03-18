@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
