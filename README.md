@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
