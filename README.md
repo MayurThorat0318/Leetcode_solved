@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
@@ -191,16 +194,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -209,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -227,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
