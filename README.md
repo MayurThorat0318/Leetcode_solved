@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1480-running-sum-of-1d-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
