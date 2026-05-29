@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
+| [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1603-design-parking-system) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
