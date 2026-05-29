@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [0837-new-21-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
+| [0837-new-21-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
 ## Bit Manipulation
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
+| [0837-new-21-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0837-new-21-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -259,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Probability and Statistics
 |  |
 | ------- |
+| [0837-new-21-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
