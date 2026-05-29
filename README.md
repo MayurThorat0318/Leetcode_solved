@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0478-generate-random-point-in-a-circle) |
 | [0808-soup-servings](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0837-new-21-game) |
@@ -279,5 +281,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0478-generate-random-point-in-a-circle) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
