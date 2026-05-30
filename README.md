@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0238-product-of-array-except-self) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0808-soup-servings](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0808-soup-servings) |
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
