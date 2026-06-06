@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0478-generate-random-point-in-a-circle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
