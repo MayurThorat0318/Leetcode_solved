@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Binary Search
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -366,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
