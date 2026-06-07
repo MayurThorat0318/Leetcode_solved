@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0478-generate-random-point-in-a-circle) |
 | [0509-fibonacci-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0509-fibonacci-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
