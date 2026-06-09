@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [2278-percentage-of-letter-in-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2278-percentage-of-letter-in-string) |
