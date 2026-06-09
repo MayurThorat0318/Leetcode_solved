@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 | [2278-percentage-of-letter-in-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2278-percentage-of-letter-in-string) |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
