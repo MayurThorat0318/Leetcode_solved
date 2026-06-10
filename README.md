@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
