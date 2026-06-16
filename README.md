@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0520-detect-capital) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
