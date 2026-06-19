@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0520-detect-capital) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
