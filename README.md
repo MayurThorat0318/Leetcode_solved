@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0682-baseball-game) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0605-can-place-flowers) |
 ## Sliding Window
 |  |
 | ------- |
