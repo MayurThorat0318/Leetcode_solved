@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0617-merge-two-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0993-cousins-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
