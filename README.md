@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0367-valid-perfect-square) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0682-baseball-game) |
 | [1603-design-parking-system](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1929-concatenation-of-array) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0459-repeated-substring-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
