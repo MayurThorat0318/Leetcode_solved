@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0478-generate-random-point-in-a-circle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/2351-first-letter-to-appear-twice) |
