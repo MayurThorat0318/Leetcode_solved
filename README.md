@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1480-running-sum-of-1d-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1929-concatenation-of-array) |
