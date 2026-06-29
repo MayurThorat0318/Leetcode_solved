@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/1768-merge-strings-alternately) |
 ## Recursion
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurThorat0318/Leetcode_solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
